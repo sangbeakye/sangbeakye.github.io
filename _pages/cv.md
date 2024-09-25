@@ -17,13 +17,14 @@ Education
 
 Work experience
 ======
-* Fall 2024: Associate Professor of Research Methodology 
-  * Florida Atlantic University 
+* **Florida Atlantic University**, Fall 2024 - Present 
+  * Associate Professor of Research Methodology
+
+* **University of Tübingen**,  Spring 2021 - Summer 2024
+  * Postdoctoral Researcher
   
-* Spring 2021 - Summer 2024: Postdoctoral Researcher
-  * University of Tübingen 
-  
-* Fall 2017 - Spring 2021: Assistant Professor of Statistics
-  * University of Missouri - Kansas City 
+* **University of Missouri - Kansas City **, Fall 2017 - Spring 2021
+  * Assistant Professor of Statistics
+
   
 
