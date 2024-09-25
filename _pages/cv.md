@@ -23,7 +23,7 @@ Work experience
 * **University of Tübingen**,  Spring 2021 - Summer 2024
   * Postdoctoral Researcher
   
-* **University of Missouri - Kansas City **, Fall 2017 - Spring 2021
+* **University of Missouri - Kansas City**, Fall 2017 - Spring 2021
   * Assistant Professor of Statistics
 
   
