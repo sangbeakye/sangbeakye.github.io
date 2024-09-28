@@ -7,26 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
-# **Florida Atlantic University** 
-## Department of Educational Leadership and Research Methodology 
+## **Florida Atlantic University** 
+Department of Educational Leadership and Research Methodology 
 - Educational Statistics (Graduate-level) 
 
-# **University of Tübingen**
-## Methods Center 
+## **University of Tübingen**
+Methods Center 
 - Introduction to R Programming (Graduate-level)
 - Categorical Data Analysis (Graduate-level)
 
-# **University of Missouri - Kansas City**
-## School of Nursing and Health Studies 
+## **University of Missouri - Kansas City**
+School of Nursing and Health Studies 
 - Statistics I (Graduate-level) 
 - Statistics II (Graduate-level) 
-- Psychometrics 
-## Department of Mathematics and Statistics 
+- Psychometrics
+  
+Department of Mathematics and Statistics 
 - Time Series Analysis (Graduate-level)
 - Categorical Data Analysis (Graduate-level)
 - Theory of Linear Models (Graduate-level) 
 - Statistical Reasoning (Undergraduate-level) 
 
-# **University of Illinois Urbana Champaign** 
-## Department of Statistics 
+## **University of Illinois Urbana Champaign** 
+Department of Statistics 
 - Introduction to Statistics (Undergraduate-level) 
