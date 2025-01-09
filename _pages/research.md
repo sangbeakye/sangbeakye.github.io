@@ -7,17 +7,8 @@ author_profile: true
 {% include base_path %}
 
 ---
-# Research
 
-Welcome to my research page! My work focuses on **Psychometrics & Educational Measurement**, **Latent Variable Modeling**, and **Sequential Analysis**. I am particularly interested in developing and applying statistical methodologies to better understand educational data and improve measurement tools.
-
----
-
-## Table of Contents
-1. [Psychometrics & Educational Measurement](#psychometrics--educational-measurement)
-2. [Latent Variable Modeling](#latent-variable-modeling)
-3. [Sequential Analysis](#sequential-analysis)
-4. [Additional Information](#additional-information)
+My work focuses on **Psychometrics**, **Educational Measurement**, **Latent Variable Modeling**, and **Sequential Analysis**. I am particularly interested in developing and applying statistical methodologies to better understand high-dimensional data and improve measurement tools.
 
 ---
 
