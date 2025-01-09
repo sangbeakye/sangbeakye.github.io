@@ -63,7 +63,7 @@ My work focuses on **Psychometrics**, **Educational Measurement**, **Latent Vari
 
 **Select Achievements**  
 - Implemented sequential designs in school-based intervention studies, reducing overall data-collection time while maintaining statistical rigor.  
-- Collaborated with [Research Lab/Team] to develop an adaptive testing platform that responds to student performance in real time.
+- Collaborated with [Research Lab/Team] to develop an adaptive testing platform that responds to student performance in real-time.
 
 [Back to Top](#table-of-contents)
 
