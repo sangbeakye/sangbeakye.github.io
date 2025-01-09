@@ -1,9 +1,12 @@
-
 ---
 layout: archive
 title: "Research area"
 permalink: /research/
 author_profile: true
+---
+
+{% include base_path %}
+
 ---
 # Research
 
