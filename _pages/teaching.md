@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching (sole instructor)"
+title: "Teaching experience"
 permalink: /teaching/
 author_profile: true
 ---
@@ -39,5 +39,6 @@ Department of Mathematics and Statistics
 ### **University of Illinois Urbana Champaign**, *2011-2017*  
 Department of Statistics  
 - Introduction to Statistics (Undergraduate)
+
 
 ---
