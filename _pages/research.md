@@ -1,9 +1,10 @@
----
-title: "Research"
-layout: default
-description: "A summary of my research interests in Psychometrics, Educational Measurement, Latent Variable Modeling, and Sequential Analysis."
----
 
+---
+layout: archive
+title: "Research area"
+permalink: /research/
+author_profile: true
+---
 # Research
 
 Welcome to my research page! My work focuses on **Psychometrics & Educational Measurement**, **Latent Variable Modeling**, and **Sequential Analysis**. I am particularly interested in developing and applying statistical methodologies to better understand educational data and improve measurement tools.
