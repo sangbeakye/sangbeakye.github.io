@@ -58,7 +58,7 @@ My work centers on **Psychometrics**, **Latent Variable Modeling**, **Educationa
   Applies sequential procedures to monitor incoming data, enabling faster and more efficient decisions in research and educational contexts. By continuously assessing evidence, resources can be conserved without sacrificing statistical integrity.
 
 - **Adaptive Designs**  
-  Develops adaptive sampling and experimental designs that respond in real time to emerging data trends. These methodologies can boost power, reduce costs, and refine study direction as new insights surface.
+  Develops adaptive sampling and experimental designs that respond in real-time to emerging data trends. These methodologies can boost power, reduce costs, and refine study direction as new insights surface.
 
 - **Real-Time Intervention Tracking**  
   Advances methodologies for continuous observation and adjustment of interventions, allowing immediate responses that improve outcomes in both educational and psychological studies. This proactive approach bridges the gap between data collection and real-world impact.
@@ -71,7 +71,7 @@ My work centers on **Psychometrics**, **Latent Variable Modeling**, **Educationa
 {: #additional-information}
 
 - **Curriculum Vitae**  
-  A comprehensive record of publications, conference presentations, and teaching experiences is available in my [CV](#).  
+  A comprehensive record of publications, conference presentations, and teaching experiences is available in my [CV](https://drive.google.com/file/d/1iZE4CBGoEG_VQHaEGLkxr0nKDq2DB3Qa/view?usp=sharing).  
 
 - **Contact**  
   For questions or potential collaborations, feel free to [email me](mailto:sye@fau.edu) or connect on [LinkedIn](https://www.linkedin.com/in/sangbeakye/).
