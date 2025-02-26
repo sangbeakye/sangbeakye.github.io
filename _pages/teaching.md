@@ -31,6 +31,7 @@ School of Nursing and Health Studies
 Department of Mathematics and Statistics
 - Time Series Analysis (Graduate)
 - Categorical Data Analysis (Graduate)  
+- Survival Analysis (Graduate)
 - Theory of Linear Models (Graduate)  
 - Statistical Reasoning (Undergraduate)
 
@@ -38,7 +39,8 @@ Department of Mathematics and Statistics
 
 ### **University of Illinois Urbana Champaign**, *2011-2017*  
 Department of Statistics  
-- Introduction to Statistics (Undergraduate)
+- Introduction to Statistics (Undergraduate)(Sole instructor)
+- Multivariate Statistics (Graduate), Categorical Data Analysis (Graduate), Survival Analysis (Graduate), Latent Variable Modeling (Graduate), Statistical Computing (Graduate) (Teaching Assistant) 
 
 
 ---
