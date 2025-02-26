@@ -14,6 +14,7 @@ Education
 * Ph.D in Statistics, University of Illinois Urbana Champaign, 2017 
 * M.S. in Statistics (transferred to Ph.D. Program), University of Illinois Urbana Champaign, 2012
 * B.S. in Statistics (minor in Mathematics), University of Illinois Urbana Champaign, 2011
+  ** _Summa cum laude_ 
 
 Work Experience
 ======
