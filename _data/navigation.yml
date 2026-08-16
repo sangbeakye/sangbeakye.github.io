@@ -6,13 +6,20 @@
 
 main:
   - title: "Research"
-    url: /research/    
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Talks & Workshops"
+    url: /talks/
 
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=VwmrEG0AAAAJ&hl=en
+    url: /publications/
+
+  - title: "CV"
+    url: /cv/
+    
   #- title: "Portfolio"
   #  url: /portfolio/
         
