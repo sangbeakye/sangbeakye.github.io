@@ -8,10 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sangbeak's Homepage"
-title_separator          : "-"
+title                    : "Sangbeak Ye | Educational Evaluation & Psychometrics"
 name                     : &name "Sangbeak Ye"
-description              : &description "personal description"
+description              : &description "Educational evaluation, psychometrics, adaptive assessment, and statistical methodology."
 url                      : https://sangbeakye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sangbeakye/sangbeakye.github.io"
@@ -34,7 +33,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=VwmrEG0AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6221-6179"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
